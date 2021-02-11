@@ -12,8 +12,8 @@
 
 <h2 align="center"><samp>In this project, I created a simple unit converter using technologies such as:</samp></h2>
 <p align="center">
-<img alt="html" width="45px" src="used_technologies/html_skill.png"/>
-<img alt="css" width="45px" src="used_technologies/css_skill.png"/>
-<img alt="SCSS" width="35px" src="used_technologies/bootstrap_skill.png"/>
-<img alt="js" width="35px" src="used_technologies/js_skill.png"/>
+<img alt="html" width="65px" src="used_technologies/html_skill.png"/>
+<img alt="css" width="65px" src="used_technologies/css_skill.png"/>
+<img alt="SCSS" width="55px" src="used_technologies/bootstrap_skill.png"/>
+<img alt="js" width="55px" src="used_technologies/js_skill.png"/>
 </p>
